@@ -243,9 +243,9 @@ class Simulation:
             'vote_quorum': quorum,
             'min_amount': min_amount,
             'num_projects_above_quorum': len(payouts),
-            'avg_payout': np.mean(payouts),
-            'median_payout': np.median(payouts),
-            'max_payout': np.max(payouts)
+            'avg_payout': np.mean(payouts) if len(payouts) > 0 else 0,
+            'median_payout': np.median(payouts) if len(payouts) > 0 else 0,
+            'max_payout': np.max(payouts) if len(payouts) > 0 else 0
         }
 
 
@@ -258,8 +258,8 @@ class Simulation:
             data = self.get_project_data()
             results.append({
                 'num_projects_above_quorum': len(payouts),
-                'avg_payout': np.mean(payouts),
-                'median_payout': np.median(payouts),
+                'avg_payout': np.mean(payouts) if len(payouts) > 0 else 0,
+                'median_payout': np.median(payouts) if len(payouts) > 0 else 0,
                 'max_payout': np.max(payouts) if len(payouts) > 0 else 0,
                 'data': data
             })
