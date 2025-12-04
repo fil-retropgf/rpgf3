@@ -95,6 +95,8 @@ def get_allocations(df, quorum_cutoff=5, min_funding=250, total_funding=270000, 
             scores = valid_df.groupby('projectId')['amount'].median()
             
         total_score = scores.sum()
+
+        print(f'Round {round_number} total score: {total_score}')
         
         # Calculate normalized allocations
         allocations = {}
@@ -788,7 +790,7 @@ def plot_allocations_sunburst(df, figsize=(800,800), show_project_labels=True, s
     # Update layout
     fig.update_layout(
         title={
-            'text': 'FIL-RetroPGF-2 Project Allocations (FIL)',
+            'text': 'FIL-RetroPGF-3 Project Allocations (FIL)',
             'y':0.95,
             'x':0.5,
             'xanchor': 'center',

@@ -1,0 +1,951 @@
+Voter Wallet Address,Application ID,Project Name,Assigned votes
+Badgeholder 1,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,25000
+Badgeholder 1,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,30000
+Badgeholder 1,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,20000
+Badgeholder 1,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,60000
+Badgeholder 1,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,20000
+Badgeholder 1,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,35000
+Badgeholder 1,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,25000
+Badgeholder 1,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,60000
+Badgeholder 1,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,30000
+Badgeholder 1,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",20000
+Badgeholder 1,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,30000
+Badgeholder 1,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,20000
+Badgeholder 1,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",50000
+Badgeholder 1,e728ac44-f9fc-4d7b-b8a6-39ad50c75802,SealGuard,25000
+Badgeholder 1,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,20000
+Badgeholder 1,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,40000
+Badgeholder 10,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,38000
+Badgeholder 10,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,45000
+Badgeholder 10,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,9000
+Badgeholder 10,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,17000
+Badgeholder 10,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,21500
+Badgeholder 10,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,10000
+Badgeholder 10,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,45000
+Badgeholder 10,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,13000
+Badgeholder 10,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,33000
+Badgeholder 10,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,21500
+Badgeholder 10,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,500
+Badgeholder 10,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,32000
+Badgeholder 10,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,21000
+Badgeholder 10,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,55000
+Badgeholder 10,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,33000
+Badgeholder 10,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,10000
+Badgeholder 10,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,500
+Badgeholder 10,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,55000
+Badgeholder 10,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,50000
+Badgeholder 11,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,500
+Badgeholder 11,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,5000
+Badgeholder 11,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,500
+Badgeholder 11,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,500
+Badgeholder 11,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,5000
+Badgeholder 11,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,10000
+Badgeholder 11,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,500
+Badgeholder 11,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,500
+Badgeholder 11,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,500
+Badgeholder 11,2747e810-1c8a-42dd-9124-ff5f4fa5e6e2,witnesschain,10000
+Badgeholder 11,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,500
+Badgeholder 11,29f7b20b-11b4-4cb0-93fe-07282a101017,BlockseBlock,500
+Badgeholder 11,2b37d2df-098e-4212-bdd5-417c0682e942,Filecoin Orbit Bootcamp Africa,500
+Badgeholder 11,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,500
+Badgeholder 11,30131037-cc18-45ff-9ed8-0991c1101373,JZFS - Building Data Hub-and-Spoke Model with Filecoin,10000
+Badgeholder 11,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,500
+Badgeholder 11,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,30000
+Badgeholder 11,339010d4-e4eb-4e70-ae73-b895740cedce,Guide To Filecoin - Easing the Transition to Filecoin.,5000
+Badgeholder 11,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,10000
+Badgeholder 11,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,500
+Badgeholder 11,3a9d5de6-444d-4fee-a7d0-ce640948848c,Filecoin Kenya Community,500
+Badgeholder 11,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,500
+Badgeholder 11,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,500
+Badgeholder 11,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,500
+Badgeholder 11,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,30000
+Badgeholder 11,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,500
+Badgeholder 11,534e0e33-cc50-4869-839b-b7995de479a7,Filecoin Orbit Uganda ,500
+Badgeholder 11,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,500
+Badgeholder 11,54092e46-ee6a-4098-86f5-daba1886e095,Helia,500
+Badgeholder 11,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,10000
+Badgeholder 11,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,30000
+Badgeholder 11,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,30000
+Badgeholder 11,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,500
+Badgeholder 11,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,10000
+Badgeholder 11,6f19ece8-826e-42a8-baaa-7ad7c2cdf85a,万佳社区,500
+Badgeholder 11,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,500
+Badgeholder 11,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,500
+Badgeholder 11,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,10000
+Badgeholder 11,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,500
+Badgeholder 11,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,500
+Badgeholder 11,89eca73c-842a-4f72-86dd-077ab7702669,Eth Transport – Decentralized Civic Infrastructure on Filecoin,10000
+Badgeholder 11,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,10000
+Badgeholder 11,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,10000
+Badgeholder 11,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,30000
+Badgeholder 11,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,30000
+Badgeholder 11,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,10000
+Badgeholder 11,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,500
+Badgeholder 11,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,10000
+Badgeholder 11,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,30000
+Badgeholder 11,afba8b0b-538e-4095-95cc-dc21d830274a,Filecoin Address Drainer,500
+Badgeholder 11,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,5000
+Badgeholder 11,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,5000
+Badgeholder 11,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,30000
+Badgeholder 11,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,10000
+Badgeholder 11,c109716c-62fb-44df-acaf-abd7a4a00fcb,B<>rder/ess Developers Program,10000
+Badgeholder 11,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,10000
+Badgeholder 11,cb5ef3e5-c93b-45d3-8c9a-b38a9a8dc3e6,"Oku.trade - Filecoin’s premier DeFi aggregator for deep liquidity, LP management and cross-chain interoperability - 0% fee swaps & bridges.",500
+Badgeholder 11,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,10000
+Badgeholder 11,d165ce6a-7864-43ae-9b5b-0a33ce8e48b1,DevTTY Filecoin Mainnet Bootstrap Nodes,10000
+Badgeholder 11,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,5000
+Badgeholder 11,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,10000
+Badgeholder 11,d2e69d18-cb8d-4b23-bd61-7829ec390bcd,ETH-FIL swap,500
+Badgeholder 11,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,10000
+Badgeholder 11,de506e15-2f76-457f-b912-b28d53a6e3fe,Retrieval Tester,500
+Badgeholder 11,e0e6962b-0401-4da0-9dba-77a5e616b38f,Filecoin Nigeria,500
+Badgeholder 11,e2b9ca9f-265d-40bd-9422-38bfcbae3a8b,FIL LAGOS,500
+Badgeholder 11,e728ac44-f9fc-4d7b-b8a6-39ad50c75802,SealGuard,500
+Badgeholder 11,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,10000
+Badgeholder 11,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,500
+Badgeholder 11,f744cff9-446b-44be-80a4-cdad54cd6ae9,The Epoch Clock,500
+Badgeholder 12,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,10000
+Badgeholder 12,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,10000
+Badgeholder 12,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,10000
+Badgeholder 12,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,20000
+Badgeholder 12,54092e46-ee6a-4098-86f5-daba1886e095,Helia,10000
+Badgeholder 12,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,10000
+Badgeholder 12,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,10000
+Badgeholder 12,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,10000
+Badgeholder 12,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,20000
+Badgeholder 12,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,10000
+Badgeholder 12,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,20000
+Badgeholder 12,de506e15-2f76-457f-b912-b28d53a6e3fe,Retrieval Tester,5000
+Badgeholder 12,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,20000
+Badgeholder 13,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,50000
+Badgeholder 13,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,10000
+Badgeholder 13,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,10000
+Badgeholder 13,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,3000
+Badgeholder 13,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,25000
+Badgeholder 13,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,2000
+Badgeholder 13,534e0e33-cc50-4869-839b-b7995de479a7,Filecoin Orbit Uganda ,2000
+Badgeholder 13,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,20000
+Badgeholder 13,5833634b-d194-41bc-ad77-f2707e3c704f,IPFS及Filecoin价值资讯传递（南山居士Hill）,2000
+Badgeholder 13,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,2000
+Badgeholder 13,6f19ece8-826e-42a8-baaa-7ad7c2cdf85a,万佳社区,2000
+Badgeholder 13,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,20000
+Badgeholder 13,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,2000
+Badgeholder 13,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,3000
+Badgeholder 13,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,10000
+Badgeholder 13,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,2000
+Badgeholder 13,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,1000
+Badgeholder 13,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,30000
+Badgeholder 13,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,30000
+Badgeholder 13,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,25000
+Badgeholder 13,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,30000
+Badgeholder 13,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,45000
+Badgeholder 13,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,60000
+Badgeholder 13,c109716c-62fb-44df-acaf-abd7a4a00fcb,B<>rder/ess Developers Program,2000
+Badgeholder 13,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,2000
+Badgeholder 13,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,20000
+Badgeholder 13,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,40000
+Badgeholder 13,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,2000
+Badgeholder 13,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,10000
+Badgeholder 13,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,3000
+Badgeholder 13,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,25000
+Badgeholder 13,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,20000
+Badgeholder 14,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,2000
+Badgeholder 14,1855e0c8-6176-4492-9966-535738b38084,Cuview,20000
+Badgeholder 14,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,30000
+Badgeholder 14,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,25000
+Badgeholder 14,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,20000
+Badgeholder 14,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,20000
+Badgeholder 14,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,2000
+Badgeholder 14,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,500
+Badgeholder 14,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,3000
+Badgeholder 14,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,25000
+Badgeholder 14,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,1000
+Badgeholder 14,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,50000
+Badgeholder 14,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,2000
+Badgeholder 14,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,50000
+Badgeholder 14,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,10000
+Badgeholder 14,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,1000
+Badgeholder 14,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,5000
+Badgeholder 14,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",20000
+Badgeholder 14,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,30000
+Badgeholder 14,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,5000
+Badgeholder 14,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,1000
+Badgeholder 14,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,50000
+Badgeholder 14,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,4000
+Badgeholder 14,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,2000
+Badgeholder 14,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,500
+Badgeholder 14,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,25000
+Badgeholder 14,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",50000
+Badgeholder 14,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,1000
+Badgeholder 14,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,5000
+Badgeholder 14,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,50000
+Badgeholder 15,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,10000
+Badgeholder 15,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,30000
+Badgeholder 15,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,10000
+Badgeholder 15,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,50000
+Badgeholder 15,54092e46-ee6a-4098-86f5-daba1886e095,Helia,10000
+Badgeholder 15,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,10000
+Badgeholder 15,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,25000
+Badgeholder 15,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,15000
+Badgeholder 15,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,20000
+Badgeholder 15,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,25000
+Badgeholder 15,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,10000
+Badgeholder 15,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,20000
+Badgeholder 15,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,10000
+Badgeholder 15,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,10000
+Badgeholder 15,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",10000
+Badgeholder 15,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,50000
+Badgeholder 15,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,20000
+Badgeholder 15,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,10000
+Badgeholder 15,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,20000
+Badgeholder 15,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,20000
+Badgeholder 15,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",100000
+Badgeholder 15,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,10000
+Badgeholder 15,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,15000
+Badgeholder 16,1aa8d1d9-4d73-43d8-93ee-2d833c95689d,MUSE,6000
+Badgeholder 16,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,40000
+Badgeholder 16,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,40000
+Badgeholder 16,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,80000
+Badgeholder 16,54092e46-ee6a-4098-86f5-daba1886e095,Helia,15000
+Badgeholder 16,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,40000
+Badgeholder 16,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,10000
+Badgeholder 16,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,2000
+Badgeholder 16,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),30000
+Badgeholder 16,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,15000
+Badgeholder 16,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,15000
+Badgeholder 16,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",15000
+Badgeholder 16,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,30000
+Badgeholder 16,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,80000
+Badgeholder 16,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,55000
+Badgeholder 16,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,2000
+Badgeholder 16,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",10000
+Badgeholder 16,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,25000
+Badgeholder 17,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,2560
+Badgeholder 17,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,810
+Badgeholder 17,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,2560
+Badgeholder 17,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,2560
+Badgeholder 17,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,810
+Badgeholder 17,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,52201
+Badgeholder 17,1aa8d1d9-4d73-43d8-93ee-2d833c95689d,MUSE,500
+Badgeholder 17,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,2560
+Badgeholder 17,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,2560
+Badgeholder 17,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,810
+Badgeholder 17,2747e810-1c8a-42dd-9124-ff5f4fa5e6e2,witnesschain,810
+Badgeholder 17,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,2560
+Badgeholder 17,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,810
+Badgeholder 17,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,2560
+Badgeholder 17,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,500
+Badgeholder 17,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,6250
+Badgeholder 17,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,31641
+Badgeholder 17,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,4100
+Badgeholder 17,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,6250
+Badgeholder 17,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,2560
+Badgeholder 17,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,12960
+Badgeholder 17,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,6250
+Badgeholder 17,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,810
+Badgeholder 17,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,810
+Badgeholder 17,470f9413-79eb-4908-956d-4cf13b80903c,Filmint,500
+Badgeholder 17,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,40960
+Badgeholder 17,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,6250
+Badgeholder 17,54092e46-ee6a-4098-86f5-daba1886e095,Helia,4100
+Badgeholder 17,5a90aa6b-868d-431d-bd42-78964b253bc3,FilDOS,810
+Badgeholder 17,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,2560
+Badgeholder 17,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,6250
+Badgeholder 17,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,6250
+Badgeholder 17,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,2560
+Badgeholder 17,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,2560
+Badgeholder 17,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,2560
+Badgeholder 17,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,2560
+Badgeholder 17,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,24010
+Badgeholder 17,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,810
+Badgeholder 17,7bd72c4a-542f-4232-8917-e13aebbe73c6,Root Key Holder management portal,2560
+Badgeholder 17,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),2560
+Badgeholder 17,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,810
+Badgeholder 17,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,2560
+Badgeholder 17,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,2560
+Badgeholder 17,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",12960
+Badgeholder 17,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,31641
+Badgeholder 17,918dcaeb-7b42-4ebf-90af-d292d3e46833,MYRAD,810
+Badgeholder 17,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,810
+Badgeholder 17,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,2560
+Badgeholder 17,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,2560
+Badgeholder 17,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,2560
+Badgeholder 17,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,2560
+Badgeholder 17,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,4100
+Badgeholder 17,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,2560
+Badgeholder 17,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,17851
+Badgeholder 17,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,12960
+Badgeholder 17,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,500
+Badgeholder 17,afba8b0b-538e-4095-95cc-dc21d830274a,Filecoin Address Drainer,810
+Badgeholder 17,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,810
+Badgeholder 17,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,810
+Badgeholder 17,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,810
+Badgeholder 17,b7f84da2-da41-462f-9676-8b61be3d087e,Meet with Huddle01,2560
+Badgeholder 17,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,6250
+Badgeholder 17,c02a1d73-b0bc-4bbf-a2e9-c031e5301592,Web3 Billing & Invoicing System – Building Verifiable Workflows on Filecoin for Digital Public Goods,500
+Badgeholder 17,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,1086
+Badgeholder 17,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,6250
+Badgeholder 17,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,810
+Badgeholder 17,cb5ef3e5-c93b-45d3-8c9a-b38a9a8dc3e6,"Oku.trade - Filecoin’s premier DeFi aggregator for deep liquidity, LP management and cross-chain interoperability - 0% fee swaps & bridges.",810
+Badgeholder 17,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,2560
+Badgeholder 17,d165ce6a-7864-43ae-9b5b-0a33ce8e48b1,DevTTY Filecoin Mainnet Bootstrap Nodes,810
+Badgeholder 17,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,2560
+Badgeholder 17,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,500
+Badgeholder 17,d35a6555-f564-4491-9670-5e77c2cfb6fe,OP Medicine – Filecoin-Powered Healthcare Infrastructure,500
+Badgeholder 17,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,6250
+Badgeholder 17,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,6250
+Badgeholder 17,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",96060
+Badgeholder 17,d6e2c8bd-98f7-418e-8151-7a8a30e57f67,NanoDC Project,810
+Badgeholder 17,de506e15-2f76-457f-b912-b28d53a6e3fe,Retrieval Tester,810
+Badgeholder 17,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,2560
+Badgeholder 17,e728ac44-f9fc-4d7b-b8a6-39ad50c75802,SealGuard,810
+Badgeholder 17,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,2560
+Badgeholder 17,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,2560
+Badgeholder 17,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,810
+Badgeholder 17,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,6250
+Badgeholder 17,f744cff9-446b-44be-80a4-cdad54cd6ae9,The Epoch Clock,810
+Badgeholder 18,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,5543
+Badgeholder 18,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,5543
+Badgeholder 18,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,5543
+Badgeholder 18,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,16630
+Badgeholder 18,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,27718
+Badgeholder 18,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,27718
+Badgeholder 18,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,16631
+Badgeholder 18,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,16630
+Badgeholder 18,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,16631
+Badgeholder 18,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,16630
+Badgeholder 18,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,27718
+Badgeholder 18,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,27718
+Badgeholder 18,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,27718
+Badgeholder 18,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,27718
+Badgeholder 18,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,16630
+Badgeholder 18,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,16630
+Badgeholder 18,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,27718
+Badgeholder 18,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),27718
+Badgeholder 18,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,16630
+Badgeholder 18,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,5543
+Badgeholder 18,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,5543
+Badgeholder 18,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,5543
+Badgeholder 18,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,5543
+Badgeholder 18,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,27718
+Badgeholder 18,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,16630
+Badgeholder 18,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,5543
+Badgeholder 18,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,16630
+Badgeholder 18,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",27718
+Badgeholder 18,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,5543
+Badgeholder 18,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,5543
+Badgeholder 19,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,12000
+Badgeholder 19,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,32000
+Badgeholder 19,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,20000
+Badgeholder 19,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,20000
+Badgeholder 19,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,14000
+Badgeholder 19,534e0e33-cc50-4869-839b-b7995de479a7,Filecoin Orbit Uganda ,13000
+Badgeholder 19,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,18000
+Badgeholder 19,6f19ece8-826e-42a8-baaa-7ad7c2cdf85a,万佳社区,18000
+Badgeholder 19,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,32000
+Badgeholder 19,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,12000
+Badgeholder 19,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,11000
+Badgeholder 19,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,12000
+Badgeholder 19,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,15000
+Badgeholder 19,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,14000
+Badgeholder 19,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,18000
+Badgeholder 19,aa53d874-e22f-4bac-a4d7-719307a223ca,ETHNigeria  (BuiDL Africa – Empowering Web3 Adoption),12000
+Badgeholder 19,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,38700
+Badgeholder 19,c02a1d73-b0bc-4bbf-a2e9-c031e5301592,Web3 Billing & Invoicing System – Building Verifiable Workflows on Filecoin for Digital Public Goods,1000
+Badgeholder 19,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,12000
+Badgeholder 19,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,25000
+Badgeholder 19,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,18300
+Badgeholder 19,e0e6962b-0401-4da0-9dba-77a5e616b38f,Filecoin Nigeria,22000
+Badgeholder 19,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,1000
+Badgeholder 19,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,20500
+Badgeholder 19,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,98500
+Badgeholder 2,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,10000
+Badgeholder 2,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,50000
+Badgeholder 2,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,3000
+Badgeholder 2,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,8000
+Badgeholder 2,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,20000
+Badgeholder 2,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,3000
+Badgeholder 2,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,100000
+Badgeholder 2,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,100000
+Badgeholder 2,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",100000
+Badgeholder 2,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,1000
+Badgeholder 2,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,2000
+Badgeholder 2,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,100000
+Badgeholder 2,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,13000
+Badgeholder 20,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,10000
+Badgeholder 20,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,10000
+Badgeholder 20,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,10000
+Badgeholder 20,1855e0c8-6176-4492-9966-535738b38084,Cuview,10000
+Badgeholder 20,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,10000
+Badgeholder 20,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,10000
+Badgeholder 20,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,10000
+Badgeholder 20,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,10000
+Badgeholder 20,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,10000
+Badgeholder 20,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,10000
+Badgeholder 20,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,15000
+Badgeholder 20,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,10000
+Badgeholder 20,54092e46-ee6a-4098-86f5-daba1886e095,Helia,20000
+Badgeholder 20,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,10000
+Badgeholder 20,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,10000
+Badgeholder 20,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,10000
+Badgeholder 20,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,50000
+Badgeholder 20,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,10000
+Badgeholder 20,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,10000
+Badgeholder 20,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),10000
+Badgeholder 20,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,20000
+Badgeholder 20,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,20000
+Badgeholder 20,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",10000
+Badgeholder 20,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,10000
+Badgeholder 20,926a86f8-14ee-4839-9715-004b10816367,Silvi: IPFS-Powered Biodiversity Infrastructure,10000
+Badgeholder 20,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,10000
+Badgeholder 20,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,10000
+Badgeholder 20,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,10000
+Badgeholder 20,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,10000
+Badgeholder 20,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,10000
+Badgeholder 20,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,10000
+Badgeholder 20,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,10000
+Badgeholder 20,b7f84da2-da41-462f-9676-8b61be3d087e,Meet with Huddle01,20000
+Badgeholder 20,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,10000
+Badgeholder 20,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,10000
+Badgeholder 20,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,15000
+Badgeholder 20,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",10000
+Badgeholder 20,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,30000
+Badgeholder 20,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,10000
+Badgeholder 20,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,10000
+Badgeholder 21,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,50000
+Badgeholder 21,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,50000
+Badgeholder 21,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,50000
+Badgeholder 21,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,50000
+Badgeholder 21,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,10000
+Badgeholder 21,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,100000
+Badgeholder 21,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,100000
+Badgeholder 21,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",100000
+Badgeholder 22,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,50000
+Badgeholder 22,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,100000
+Badgeholder 22,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,60000
+Badgeholder 22,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,20000
+Badgeholder 22,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,50000
+Badgeholder 22,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,5000
+Badgeholder 22,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,30000
+Badgeholder 22,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,5000
+Badgeholder 22,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,5000
+Badgeholder 22,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,20000
+Badgeholder 22,a26a233e-c9df-4729-8cf4-526b2ae3a197,FileScope AI: Blockchain-Powered Dataset Analysis Platform,10000
+Badgeholder 22,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,10000
+Badgeholder 22,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,50000
+Badgeholder 22,c02a1d73-b0bc-4bbf-a2e9-c031e5301592,Web3 Billing & Invoicing System – Building Verifiable Workflows on Filecoin for Digital Public Goods,10000
+Badgeholder 22,d35a6555-f564-4491-9670-5e77c2cfb6fe,OP Medicine – Filecoin-Powered Healthcare Infrastructure,20000
+Badgeholder 22,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,50000
+Badgeholder 22,e728ac44-f9fc-4d7b-b8a6-39ad50c75802,SealGuard,15000
+Badgeholder 23,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,6000
+Badgeholder 23,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,6000
+Badgeholder 23,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,25000
+Badgeholder 23,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,6000
+Badgeholder 23,195f83d0-6ac2-4d65-b1cb-e727954ab936,boxo-starter-kit,6000
+Badgeholder 23,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,14630
+Badgeholder 23,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,6000
+Badgeholder 23,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,14392
+Badgeholder 23,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,6000
+Badgeholder 23,2e56ed6a-3bed-4332-b91c-4d42dea1d332,Curio APT Repository (Filecoin APT),16392
+Badgeholder 23,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,12153
+Badgeholder 23,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,15986
+Badgeholder 23,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,15553
+Badgeholder 23,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,25000
+Badgeholder 23,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,13447
+Badgeholder 23,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,14154
+Badgeholder 23,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,6000
+Badgeholder 23,54092e46-ee6a-4098-86f5-daba1886e095,Helia,12772
+Badgeholder 23,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,12559
+Badgeholder 23,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,6000
+Badgeholder 23,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,25000
+Badgeholder 23,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,16584
+Badgeholder 23,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,14865
+Badgeholder 23,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,6000
+Badgeholder 23,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,15099
+Badgeholder 23,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,13916
+Badgeholder 23,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,15328
+Badgeholder 23,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,12992
+Badgeholder 23,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,12352
+Badgeholder 23,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,25000
+Badgeholder 23,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,6000
+Badgeholder 23,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,6000
+Badgeholder 23,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,6000
+Badgeholder 23,c02a1d73-b0bc-4bbf-a2e9-c031e5301592,Web3 Billing & Invoicing System – Building Verifiable Workflows on Filecoin for Digital Public Goods,11961
+Badgeholder 23,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,15773
+Badgeholder 23,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,6000
+Badgeholder 23,d165ce6a-7864-43ae-9b5b-0a33ce8e48b1,DevTTY Filecoin Mainnet Bootstrap Nodes,16193
+Badgeholder 23,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,6000
+Badgeholder 23,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,13218
+Badgeholder 23,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,6000
+Badgeholder 23,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,6000
+Badgeholder 23,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,13681
+Badgeholder 24,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,3569
+Badgeholder 24,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,17036
+Badgeholder 24,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,6213
+Badgeholder 24,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,721
+Badgeholder 24,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,11497
+Badgeholder 24,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,2494
+Badgeholder 24,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,1373
+Badgeholder 24,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,2494
+Badgeholder 24,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,2971
+Badgeholder 24,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,2494
+Badgeholder 24,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,21111
+Badgeholder 24,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,10147
+Badgeholder 24,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,2060
+Badgeholder 24,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,6213
+Badgeholder 24,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,6213
+Badgeholder 24,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,721
+Badgeholder 24,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,30341
+Badgeholder 24,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,9181
+Badgeholder 24,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,1179
+Badgeholder 24,54092e46-ee6a-4098-86f5-daba1886e095,Helia,20266
+Badgeholder 24,5a90aa6b-868d-431d-bd42-78964b253bc3,FilDOS,7717
+Badgeholder 24,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,1179
+Badgeholder 24,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,1179
+Badgeholder 24,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,2971
+Badgeholder 24,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,2971
+Badgeholder 24,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,6213
+Badgeholder 24,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,38313
+Badgeholder 24,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,601
+Badgeholder 24,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,1179
+Badgeholder 24,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,601
+Badgeholder 24,85ca22cb-5ac0-4b02-8fe4-0cad03193378,4EVERLAND,2971
+Badgeholder 24,868aaecc-bcd6-4753-bef3-6d45b923aabf,WarmWeb,1625
+Badgeholder 24,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,1373
+Badgeholder 24,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,16733
+Badgeholder 24,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",18015
+Badgeholder 24,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,2494
+Badgeholder 24,918dcaeb-7b42-4ebf-90af-d292d3e46833,MYRAD,7717
+Badgeholder 24,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,2971
+Badgeholder 24,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,6214
+Badgeholder 24,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,2494
+Badgeholder 24,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,16733
+Badgeholder 24,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,3131
+Badgeholder 24,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,1625
+Badgeholder 24,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,1374
+Badgeholder 24,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,6066
+Badgeholder 24,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,4072
+Badgeholder 24,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,28124
+Badgeholder 24,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,20266
+Badgeholder 24,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,2494
+Badgeholder 24,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,13080
+Badgeholder 24,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,13909
+Badgeholder 24,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,7488
+Badgeholder 24,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,6213
+Badgeholder 24,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,1373
+Badgeholder 24,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,3682
+Badgeholder 24,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,721
+Badgeholder 24,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",28124
+Badgeholder 24,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,11497
+Badgeholder 24,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,29946
+Badgeholder 24,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,721
+Badgeholder 24,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,25536
+Badgeholder 25,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,50000
+Badgeholder 25,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,10000
+Badgeholder 25,2b37d2df-098e-4212-bdd5-417c0682e942,Filecoin Orbit Bootcamp Africa,1000
+Badgeholder 25,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,50000
+Badgeholder 25,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,10000
+Badgeholder 25,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,50000
+Badgeholder 25,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,50000
+Badgeholder 25,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,10000
+Badgeholder 25,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,100000
+Badgeholder 25,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,1000
+Badgeholder 25,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,50000
+Badgeholder 25,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,10000
+Badgeholder 25,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,1000
+Badgeholder 25,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,50000
+Badgeholder 25,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,7000
+Badgeholder 25,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,10000
+Badgeholder 25,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,50000
+Badgeholder 26,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,1250
+Badgeholder 26,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,6250
+Badgeholder 26,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,25000
+Badgeholder 26,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,25000
+Badgeholder 26,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,12500
+Badgeholder 26,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,12500
+Badgeholder 26,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,6250
+Badgeholder 26,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,25000
+Badgeholder 26,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,25000
+Badgeholder 26,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,12500
+Badgeholder 26,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,12500
+Badgeholder 26,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,12500
+Badgeholder 26,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,5000
+Badgeholder 26,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,12500
+Badgeholder 26,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,25000
+Badgeholder 26,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,30000
+Badgeholder 26,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,6250
+Badgeholder 26,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,12500
+Badgeholder 26,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,25000
+Badgeholder 26,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,5000
+Badgeholder 26,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,1200
+Badgeholder 26,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,9100
+Badgeholder 26,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",12500
+Badgeholder 26,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,40000
+Badgeholder 26,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,12500
+Badgeholder 26,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,500
+Badgeholder 26,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,25000
+Badgeholder 26,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,25000
+Badgeholder 26,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,6250
+Badgeholder 26,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,25000
+Badgeholder 26,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,5000
+Badgeholder 26,d165ce6a-7864-43ae-9b5b-0a33ce8e48b1,DevTTY Filecoin Mainnet Bootstrap Nodes,500
+Badgeholder 26,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,18700
+Badgeholder 26,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,6250
+Badgeholder 26,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,25000
+Badgeholder 27,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,10000
+Badgeholder 27,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,10000
+Badgeholder 27,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,10000
+Badgeholder 27,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,25000
+Badgeholder 27,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,30000
+Badgeholder 27,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,30000
+Badgeholder 27,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,55000
+Badgeholder 27,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,25000
+Badgeholder 27,6f19ece8-826e-42a8-baaa-7ad7c2cdf85a,万佳社区,10000
+Badgeholder 27,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,60000
+Badgeholder 27,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,35000
+Badgeholder 27,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,10000
+Badgeholder 27,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,20000
+Badgeholder 27,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,10000
+Badgeholder 27,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,10000
+Badgeholder 27,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,30000
+Badgeholder 27,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",60000
+Badgeholder 27,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,20000
+Badgeholder 27,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,40000
+Badgeholder 27,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,10000
+Badgeholder 28,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,25000
+Badgeholder 28,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,35000
+Badgeholder 28,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,10000
+Badgeholder 28,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,25000
+Badgeholder 28,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,25000
+Badgeholder 28,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,10000
+Badgeholder 28,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,25000
+Badgeholder 28,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,25000
+Badgeholder 28,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,25000
+Badgeholder 28,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,10000
+Badgeholder 28,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",25000
+Badgeholder 28,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,10000
+Badgeholder 28,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,100000
+Badgeholder 28,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,100000
+Badgeholder 28,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,10000
+Badgeholder 28,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,50000
+Badgeholder 29,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,20000
+Badgeholder 29,2b37d2df-098e-4212-bdd5-417c0682e942,Filecoin Orbit Bootcamp Africa,20000
+Badgeholder 29,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,20000
+Badgeholder 29,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,30000
+Badgeholder 29,3a9d5de6-444d-4fee-a7d0-ce640948848c,Filecoin Kenya Community,20000
+Badgeholder 29,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,20000
+Badgeholder 29,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,50000
+Badgeholder 29,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,20000
+Badgeholder 29,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,20000
+Badgeholder 29,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,100000
+Badgeholder 29,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,30000
+Badgeholder 29,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,50000
+Badgeholder 29,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",20000
+Badgeholder 29,e0e6962b-0401-4da0-9dba-77a5e616b38f,Filecoin Nigeria,20000
+Badgeholder 29,e2b9ca9f-265d-40bd-9422-38bfcbae3a8b,FIL LAGOS,20000
+Badgeholder 29,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,50000
+Badgeholder 3,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,100000
+Badgeholder 3,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,100000
+Badgeholder 3,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,100000
+Badgeholder 3,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,100000
+Badgeholder 3,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,10000
+Badgeholder 4,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,5000
+Badgeholder 4,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,1000
+Badgeholder 4,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,50000
+Badgeholder 4,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,10000
+Badgeholder 4,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,10000
+Badgeholder 4,1855e0c8-6176-4492-9966-535738b38084,Cuview,5000
+Badgeholder 4,195f83d0-6ac2-4d65-b1cb-e727954ab936,boxo-starter-kit,500
+Badgeholder 4,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,500
+Badgeholder 4,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,5000
+Badgeholder 4,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx – Storage Provider Retrieval Analytics Platform,5000
+Badgeholder 4,2e56ed6a-3bed-4332-b91c-4d42dea1d332,Curio APT Repository (Filecoin APT),3000
+Badgeholder 4,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,1000
+Badgeholder 4,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,1000
+Badgeholder 4,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,1000
+Badgeholder 4,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,1000
+Badgeholder 4,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,1000
+Badgeholder 4,470f9413-79eb-4908-956d-4cf13b80903c,Filmint,25000
+Badgeholder 4,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,10000
+Badgeholder 4,54092e46-ee6a-4098-86f5-daba1886e095,Helia,3500
+Badgeholder 4,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,500
+Badgeholder 4,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,25000
+Badgeholder 4,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,1000
+Badgeholder 4,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,1000
+Badgeholder 4,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,5000
+Badgeholder 4,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,1000
+Badgeholder 4,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,1000
+Badgeholder 4,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,5000
+Badgeholder 4,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,7500
+Badgeholder 4,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,25000
+Badgeholder 4,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,5000
+Badgeholder 4,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,10000
+Badgeholder 4,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,10000
+Badgeholder 4,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,10000
+Badgeholder 4,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,100000
+Badgeholder 4,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,5000
+Badgeholder 4,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,1000
+Badgeholder 4,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,50000
+Badgeholder 4,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,7500
+Badgeholder 4,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,10000
+Badgeholder 4,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,500
+Badgeholder 4,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,25000
+Badgeholder 4,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,25000
+Badgeholder 4,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,500
+Badgeholder 4,d6e2c8bd-98f7-418e-8151-7a8a30e57f67,NanoDC Project,5000
+Badgeholder 4,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,5000
+Badgeholder 4,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,15000
+Badgeholder 4,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,5000
+Badgeholder 4,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,10000
+Badgeholder 5,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,30000
+Badgeholder 5,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,15000
+Badgeholder 5,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,15000
+Badgeholder 5,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,30000
+Badgeholder 5,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,57000
+Badgeholder 5,54092e46-ee6a-4098-86f5-daba1886e095,Helia,30000
+Badgeholder 5,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,30000
+Badgeholder 5,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,30000
+Badgeholder 5,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,30000
+Badgeholder 5,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,9000
+Badgeholder 5,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,3000
+Badgeholder 5,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,30000
+Badgeholder 5,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",60000
+Badgeholder 5,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,30000
+Badgeholder 5,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,3000
+Badgeholder 5,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,15000
+Badgeholder 5,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,3000
+Badgeholder 5,b7f84da2-da41-462f-9676-8b61be3d087e,Meet with Huddle01,15000
+Badgeholder 5,e2b9ca9f-265d-40bd-9422-38bfcbae3a8b,FIL LAGOS,15000
+Badgeholder 5,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,15000
+Badgeholder 5,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,15000
+Badgeholder 5,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,30000
+Badgeholder 6,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,500
+Badgeholder 6,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,500
+Badgeholder 6,195f83d0-6ac2-4d65-b1cb-e727954ab936,boxo-starter-kit,500
+Badgeholder 6,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,500
+Badgeholder 6,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,500
+Badgeholder 6,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,500
+Badgeholder 6,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,500
+Badgeholder 6,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,10000
+Badgeholder 6,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,5000
+Badgeholder 6,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,50000
+Badgeholder 6,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,5000
+Badgeholder 6,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,20000
+Badgeholder 6,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,500
+Badgeholder 6,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,50000
+Badgeholder 6,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,500
+Badgeholder 6,54092e46-ee6a-4098-86f5-daba1886e095,Helia,5000
+Badgeholder 6,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,500
+Badgeholder 6,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,500
+Badgeholder 6,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,5000
+Badgeholder 6,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,16000
+Badgeholder 6,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,50000
+Badgeholder 6,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,500
+Badgeholder 6,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,40000
+Badgeholder 6,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,500
+Badgeholder 6,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),500
+Badgeholder 6,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,500
+Badgeholder 6,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,500
+Badgeholder 6,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,500
+Badgeholder 6,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,5000
+Badgeholder 6,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",500
+Badgeholder 6,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,50000
+Badgeholder 6,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,5000
+Badgeholder 6,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,500
+Badgeholder 6,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,500
+Badgeholder 6,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,500
+Badgeholder 6,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,500
+Badgeholder 6,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,500
+Badgeholder 6,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,100000
+Badgeholder 6,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,5000
+Badgeholder 6,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,500
+Badgeholder 6,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,50000
+Badgeholder 6,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,500
+Badgeholder 6,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,5000
+Badgeholder 6,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,500
+Badgeholder 6,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,500
+Badgeholder 6,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,10000
+Badgeholder 6,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",10000
+Badgeholder 6,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,500
+Badgeholder 7,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,80000
+Badgeholder 7,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,20000
+Badgeholder 7,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,80000
+Badgeholder 7,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,30000
+Badgeholder 7,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,80000
+Badgeholder 7,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,20000
+Badgeholder 7,926a86f8-14ee-4839-9715-004b10816367,Silvi: IPFS-Powered Biodiversity Infrastructure,10000
+Badgeholder 7,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,25000
+Badgeholder 7,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world’s first community-owned data commons for nature impact,10000
+Badgeholder 7,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,30000
+Badgeholder 7,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,10000
+Badgeholder 7,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,80000
+Badgeholder 7,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,10000
+Badgeholder 7,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,5000
+Badgeholder 7,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,20000
+Badgeholder 8,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,65000
+Badgeholder 8,1aa8d1d9-4d73-43d8-93ee-2d833c95689d,MUSE,15000
+Badgeholder 8,2747e810-1c8a-42dd-9124-ff5f4fa5e6e2,witnesschain,12000
+Badgeholder 8,59c4afee-5d3c-4c21-9977-4d0b88406bd2,Cyberport Data Integration,15000
+Badgeholder 8,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,20000
+Badgeholder 8,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,45000
+Badgeholder 8,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),47000
+Badgeholder 8,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,28000
+Badgeholder 8,868aaecc-bcd6-4753-bef3-6d45b923aabf,WarmWeb,14000
+Badgeholder 8,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,23000
+Badgeholder 8,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm – SocialCap,30000
+Badgeholder 8,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,35000
+Badgeholder 8,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,75000
+Badgeholder 8,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,40000
+Badgeholder 9,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,5000
+Badgeholder 9,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,10000
+Badgeholder 9,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,50000
+Badgeholder 9,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,5000
+Badgeholder 9,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,5000
+Badgeholder 9,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,20000
+Badgeholder 9,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,3000
+Badgeholder 9,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance ,5000
+Badgeholder 9,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,50000
+Badgeholder 9,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,5000
+Badgeholder 9,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,15000
+Badgeholder 9,54092e46-ee6a-4098-86f5-daba1886e095,Helia,15000
+Badgeholder 9,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,10000
+Badgeholder 9,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,4000
+Badgeholder 9,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,10000
+Badgeholder 9,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,10000
+Badgeholder 9,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,10000
+Badgeholder 9,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,1000
+Badgeholder 9,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,10000
+Badgeholder 9,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz – Advancing the Filecoin Protocol,50000
+Badgeholder 9,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),30000
+Badgeholder 9,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,50000
+Badgeholder 9,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",25000
+Badgeholder 9,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,15000
+Badgeholder 9,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,5000
+Badgeholder 9,b7f84da2-da41-462f-9676-8b61be3d087e,Meet with Huddle01,5000
+Badgeholder 9,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,25000
+Badgeholder 9,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,5000
+Badgeholder 9,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,2000
+Badgeholder 9,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,10000
+Badgeholder 9,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",10000
+Badgeholder 9,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,20000
+Badgeholder 9,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,5000
+Badgeholder 30,d6a289df-2b58-4717-9a6d-f9f95a6e6255,"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",6746
+Badgeholder 30,160e0cbc-91cc-4dcd-b720-c3a13183cacf,Fil Implementers WG - Cross-Client Coordination and Governance,4895
+Badgeholder 30,4c103024-a6f6-4419-99ac-f73ae6280d84,FIL-B (FIL Builders) DX and Community,6746
+Badgeholder 30,8f034a68-515e-4c03-b2e6-2f8269115cd3,Curio Storage,4895
+Badgeholder 30,32c9890d-111f-4652-92ae-4d538018f11c,Secured Finance,7672
+Badgeholder 30,7a2776ec-ce9a-4654-bec4-fcfd5d8417ba,FilOz � Advancing the Filecoin Protocol,6746
+Badgeholder 30,aa897945-b83f-4d99-80a7-e822d18756f5,GainForest: The world�s first community-owned data commons for nature impact,3969
+Badgeholder 30,8d43236b-7b9a-4559-b9e2-d9c1e6613df4,"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",5821
+Badgeholder 30,ab06b3a2-2adf-4646-bd61-083707ea5dbd,Filecoin Data Portal,7672
+Badgeholder 30,3c4ddafc-9700-4415-a1cc-28427437d222,IPFS Public Utilities,5821
+Badgeholder 30,d422a481-2cb7-4bf2-836e-4f092bca32c1,Filecoin Ledger App & Installation Hub,3044
+Badgeholder 30,3ce6595a-fd17-4f39-b951-ed02fb3dc865,drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,5821
+Badgeholder 30,c5d01928-6cd6-49ef-a075-d1e89391dc19,Lighthouse,5821
+Badgeholder 30,6a76818e-f2da-4094-a94d-b781e841c0fa,FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,4895
+Badgeholder 30,62ab931a-d667-41c4-a9f6-0dd33986675b,Chain.Love,4895
+Badgeholder 30,37719aa9-51b2-4ae4-8865-12488f0a623c,go-libp2p,6746
+Badgeholder 30,52fb7f13-1706-4551-b5be-b6cb16eed052,Filecoin Community Services,4895
+Badgeholder 30,d4754591-e080-4a32-be54-3e8008dd0043,Filecoin BigQuery Data Repository,4895
+Badgeholder 30,306102d4-d22a-41e2-b31e-af28c6dcd136,Lily: blockchain data extraction for Filecoin,5821
+Badgeholder 30,b967b145-6917-4800-9a29-c9f54746ad0f,FIP Editors - Filecoin Improvement Proposal Governance,7672
+Badgeholder 30,f5d89c28-94fc-4bbe-b761-daafdbb23836,Filecoin Beam,7672
+Badgeholder 30,a5306256-ea84-45ed-9587-f4f3ed403e6e,Safe on Filecoin,3969
+Badgeholder 30,36873163-7b77-4e7b-a2f5-dfd375d61a3a,Filecoin Spark,6746
+Badgeholder 30,54092e46-ee6a-4098-86f5-daba1886e095,Helia,3969
+Badgeholder 30,7bd72c4a-542f-4232-8917-e13aebbe73c6,Root Key Holder management portal,4895
+Badgeholder 30,a2097341-9681-4d04-9165-8a5a5006e1cb,FIP 100 Research & Development,5821
+Badgeholder 30,2bd98798-00fc-4ee2-846b-543627dfae0c,Beryx Filecoin API,3969
+Badgeholder 30,a6b88855-f0f2-45d0-abe3-a5da9c282564,Filecoin Deal Tool - Droplet,4895
+Badgeholder 30,6e894c47-b5ce-4631-807c-d7f1e38b45d9,UCAN,5821
+Badgeholder 30,22b40849-0e03-44bb-8631-f958a061df2e,Beryx Filecoin Explorer,3969
+Badgeholder 30,6e84f2ca-80a1-4fbc-a168-b7de29124ac9,Metrics for the Filecoin P2P network health,6746
+Badgeholder 30,d166b8fe-b505-4686-902b-c7b87ce71b87,FilPunks,3969
+Badgeholder 30,99448aa8-08fc-4ada-afce-ff05457fe5b8,Axelar Network,3044
+Badgeholder 30,8b69af4a-8d42-495e-8d0a-08a0cf9fa1ff,CalibrationNet Stability Project,5821
+Badgeholder 30,5c01c7c2-4c6c-4a05-b3db-c952e2726abe,Boost,4895
+Badgeholder 30,f16c41b8-9b64-4cd2-a02a-02e3effc751e,Filscan Explorer,6746
+Badgeholder 30,9ef5342a-8500-41b3-9423-2d05e93c027e,Filecoin Client Implementation - Venus,4895
+Badgeholder 30,1f64b8a1-bdbe-4068-8711-603b6624fb58,Forest,3969
+Badgeholder 30,761584d7-5376-47a0-bf1f-98fe35da3317,Forest Archive,4895
+Badgeholder 30,86b0976c-3f9f-4d1a-977d-2963c89c23b4,filsnap,4895
+Badgeholder 30,b7f84da2-da41-462f-9676-8b61be3d087e,Meet with Huddle01,2118
+Badgeholder 30,392b614d-683f-44a6-a7c5-020ce1c2dcbe,Filosign,3969
+Badgeholder 30,28288464-b209-4206-84ac-d3d47b340169,Spacescope: API service for the Filecoin ecosystem,4895
+Badgeholder 30,0b4979fd-39c8-451d-a993-11e65910c398,chainfee,4895
+Badgeholder 30,744d619d-36dc-4fda-9389-8a0a2c1b1b1e,ND Labs,3044
+Badgeholder 30,e6cc730e-b8dd-40f3-933a-3b196bd89018,CIDgravity Filecoin Gateway,4895
+Badgeholder 30,04075bb8-3220-4e24-85fe-91595b81548c,CIDgravity Nextcloud App,3969
+Badgeholder 30,eb0b4bda-6a6a-47cd-b6b2-41d0b84a49c8,Drips,267
+Badgeholder 30,80c92010-ca1d-4b17-ac1d-8bb3d998b750,Open Source Observer (OSO),5821
+Badgeholder 30,ce89d759-3602-4ca3-92d1-1c109f96d815,Eastore,5821
+Badgeholder 30,1104a741-807e-4508-a12f-9e29b40dfac0,iso-filecoin,4895
+Badgeholder 30,9a7fb291-1c0a-48fc-9e38-756139545663,Keypo,2118
+Badgeholder 30,c34c108f-0df0-4ade-9245-6e1bfa0570e6,MechaFIL-JAX,3969
+Badgeholder 30,5a90aa6b-868d-431d-bd42-78964b253bc3,FilDOS,3969
+Badgeholder 30,de506e15-2f76-457f-b912-b28d53a6e3fe,Retrieval Tester,4895
+Badgeholder 30,b5872441-4eb3-4e65-b1af-8fddf990bcc3,filecoin-checker,5821
+Badgeholder 30,b61f7aa2-9ff4-4238-8cdf-7660bb4e8abd,Curio Snark Market,4895
+Badgeholder 30,e728ac44-f9fc-4d7b-b8a6-39ad50c75802,SealGuard,3044
+Badgeholder 30,d165ce6a-7864-43ae-9b5b-0a33ce8e48b1,DevTTY Filecoin Mainnet Bootstrap Nodes,3969
+Badgeholder 30,2ac959e8-673b-4a20-a94e-907c4c3e74c9,Curio Smart Cordon & Restart System,4895
+Badgeholder 30,afba8b0b-538e-4095-95cc-dc21d830274a,Filecoin Address Drainer,3969
+Badgeholder 30,f744cff9-446b-44be-80a4-cdad54cd6ae9,The Epoch Clock,3969
+Badgeholder 30,2747e810-1c8a-42dd-9124-ff5f4fa5e6e2,witnesschain,3969
+Badgeholder 30,83c9ac2a-38c6-44d9-89f0-7882d806b65e,Filecoin Slack Community Admin,3969
+Badgeholder 30,1407a021-8b89-40ff-bc7b-de04d960b946,Filecoin Community Service -VenusHub,3969
+Badgeholder 30,f4976f77-f232-49d3-b605-cfe78eefd10c,Filliquid,3969
+Badgeholder 30,c9778ce6-1da9-401b-bdd2-2d1e51330ebe,libp2p Community Architecting and Infra Management,4895
+Badgeholder 30,4499d1d8-a659-41f0-a8ee-845813d3c316,Blockscout Open Source Filecoin Explorer,5821
+Badgeholder 30,d6e2c8bd-98f7-418e-8151-7a8a30e57f67,NanoDC Project,4895
+Badgeholder 30,40a6feb3-d63d-4370-a933-f9230cc9afcd,Forest Explorer,4895
+Badgeholder 30,7a4b461f-b620-4964-a326-0166e067137a,FIL RetroPGF Data Analysis & Round Modeling,5821
+Badgeholder 30,918dcaeb-7b42-4ebf-90af-d292d3e46833,MYRAD,3969
+Badgeholder 30,cb5ef3e5-c93b-45d3-8c9a-b38a9a8dc3e6,"Oku.trade - Filecoin�s premier DeFi aggregator for deep liquidity, LP management and cross-chain interoperability - 0% fee swaps & bridges.",1193
+Badgeholder 30,23cfaeef-a367-44a9-ad63-3e85a80a839d,py-libp2p: The Python libp2p Stack for Filecoin & IPFS,3969
+Badgeholder 30,b1b92b46-5ce8-4098-83e3-7c3eb48ee114,Old Faithful,4895
+Badgeholder 30,06b06e85-3bca-4636-b07c-d0b59e534357,PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,5821
+Badgeholder 30,9332241c-1ecf-4bd3-9f86-d95318a56dcf,Curio Dashboard,5821
+Badgeholder 30,ac98c17b-6751-4b3b-b8b0-fe3d817c2ad8,IPFS Desktop and Companion,2118
+Badgeholder 30,c02a1d73-b0bc-4bbf-a2e9-c031e5301592,Web3 Billing & Invoicing System � Building Verifiable Workflows on Filecoin for Digital Public Goods,2118
+Badgeholder 30,2d1d635b-d63e-45ae-83a1-d5ebdac6b7b5,Lynx � Storage Provider Retrieval Analytics Platform,1193
+Badgeholder 30,1aa8d1d9-4d73-43d8-93ee-2d833c95689d,MUSE,3969
+Badgeholder 30,d35a6555-f564-4491-9670-5e77c2cfb6fe,OP Medicine � Filecoin-Powered Healthcare Infrastructure,2118
+Badgeholder 30,470f9413-79eb-4908-956d-4cf13b80903c,Filmint,3044
+Badgeholder 30,d2ca6872-0dc0-4df7-8293-46ec11f6faab,Asia-SPWG,4895
+Badgeholder 30,d2e69d18-cb8d-4b23-bd61-7829ec390bcd,ETH-FIL swap,2118
+Badgeholder 30,22faefcd-a56d-4560-9573-e6703d441b78,Filet Finance,2118
+Badgeholder 30,827b4d7d-dd9a-4608-8d90-9085b9aa3f3b,fil-miner-info.safematrix,0
+Badgeholder 30,8c95867e-3aeb-4dc4-b8bc-1d448b9317ad,Boxo and Kubo,3969
+Badgeholder 30,868aaecc-bcd6-4753-bef3-6d45b923aabf,WarmWeb,3969
+Badgeholder 30,163ab215-74db-458f-bb91-95d950e28d4b,Filecoin FIPs Tracker,3044
+Badgeholder 30,60851f21-e8c3-4622-9f27-d0b1578a35fa,Storacha-Solana-SDK,5821
+Badgeholder 30,30131037-cc18-45ff-9ed8-0991c1101373,JZFS - Building Data Hub-and-Spoke Model with Filecoin,3969
+Badgeholder 30,53604d52-caf7-4775-800e-788da6f6eace,OrbitChina,3044
+Badgeholder 30,926a86f8-14ee-4839-9715-004b10816367,Silvi: IPFS-Powered Biodiversity Infrastructure,3969
+Badgeholder 30,a26a233e-c9df-4729-8cf4-526b2ae3a197,FileScope AI: Blockchain-Powered Dataset Analysis Platform,3044
+Badgeholder 30,89eca73c-842a-4f72-86dd-077ab7702669,Eth Transport � Decentralized Civic Infrastructure on Filecoin,3969
+Badgeholder 30,e7158e41-c58e-4b5c-af42-4359da146d46,MetaEra,3969
+Badgeholder 30,bce86943-228a-4410-93e7-7a2421ede875,FILCAPETOWN,2118
+Badgeholder 30,c109716c-62fb-44df-acaf-abd7a4a00fcb,B<>rder/ess Developers Program,3969
+Badgeholder 30,195f83d0-6ac2-4d65-b1cb-e727954ab936,boxo-starter-kit,4895
+Badgeholder 30,2e56ed6a-3bed-4332-b91c-4d42dea1d332,Curio APT Repository (Filecoin APT),4895
+Badgeholder 30,339010d4-e4eb-4e70-ae73-b895740cedce,Guide To Filecoin - Easing the Transition to Filecoin.,3044
+Badgeholder 30,534e0e33-cc50-4869-839b-b7995de479a7,Filecoin Orbit Uganda,2118
+Badgeholder 30,5833634b-d194-41bc-ad77-f2707e3c704f,IPFS_Filecoin___________Hill_,4895
+Badgeholder 30,6f19ece8-826e-42a8-baaa-7ad7c2cdf85a,____,3969
+Badgeholder 30,3a9d5de6-444d-4fee-a7d0-ce640948848c,Filecoin Kenya Community,2118
+Badgeholder 30,a9a4e608-e6d5-46da-9963-4cd4ae35c372,Crossfi,3044
+Badgeholder 30,e0e6962b-0401-4da0-9dba-77a5e616b38f,Filecoin Nigeria,2118
+Badgeholder 30,383211c9-7940-4f3a-a6b1-fb60a761560b,OpenEdStore Decentralized Educational Storage Platform,2118
+Badgeholder 30,2b37d2df-098e-4212-bdd5-417c0682e942,Filecoin Orbit Bootcamp Africa,3044
+Badgeholder 30,521f797a-7ab4-4ed8-8290-edd8abfbc5b6,ETHAccra,2118
+Badgeholder 30,aa53d874-e22f-4bac-a4d7-719307a223ca,ETHNigeria (BuiDL Africa � Empowering Web3 Adoption),267
+Badgeholder 30,e2b9ca9f-265d-40bd-9422-38bfcbae3a8b,FIL LAGOS,2118
+Badgeholder 30,29f7b20b-11b4-4cb0-93fe-07282a101017,BlockseBlock,3044
+Badgeholder 30,85ca22cb-5ac0-4b02-8fe4-0cad03193378,4EVERLAND,4895
+Badgeholder 30,940de67a-f153-4633-8193-27952a1ac9e3,Ancients Research,4895
+Badgeholder 30,7a4f6567-20bf-4ae0-a918-b79ab5ce1758,Multichain Storage,3969
+Badgeholder 30,1855e0c8-6176-4492-9966-535738b38084,Cuview,5821
+Badgeholder 30,59c4afee-5d3c-4c21-9977-4d0b88406bd2,Cyberport Data Integration,2740
+Badgeholder 30,95d06632-35cf-4c8a-883e-5b1dd865edbb,OneForm � SocialCap,267

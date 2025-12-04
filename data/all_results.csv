@@ -1,0 +1,121 @@
+Project Name,Vote Count,Quorum reached,Allocation (FIL)
+"Filecoin Onchain Cloud (FOC) - Verifiable Storage, Retrieval, and Payments",14,True,20461.543613677033
+FilOz - Advancing the Filecoin Protocol,17,True,18142.607803579485
+FIL-B (FIL Builders) DX and Community,15,True,16049.87599746483
+go-libp2p,21,True,15659.491097672564
+Filecoin Data Portal,15,True,15432.296987059763
+Curio Storage,16,True,14415.245312437924
+drand - the distributed randomness beacon project powering the League of Entropy and Filecoin Leader Election,16,True,14154.422937359323
+UCAN,13,True,13947.632095512841
+Secured Finance,14,True,12652.395818837944
+FilPonto: Public goods chain infrastructure & collaborations support for Filecoin,13,True,12474.459513063064
+"Lotus, Builtin Actors, and ref-FVM - Core Filecoin Protocol Implementations",14,True,11838.704973808977
+Filscan Explorer,19,True,10581.799968091942
+Crossfi,8,True,9708.136950051408
+ND Labs,11,True,9303.607669831888
+Filliquid,8,True,8973.866801121483
+Eastore,9,True,8318.80518258419
+Lily: blockchain data extraction for Filecoin,13,True,8259.434145740785
+Beryx Filecoin Explorer,14,True,8075.734004941797
+Blockscout Open Source Filecoin Explorer,16,True,8074.461010703343
+Beryx Filecoin API,12,True,7993.378349904099
+Chain.Love,16,True,7901.54595998014
+Lighthouse,13,True,7746.134580035665
+Forest,12,True,7717.244683012995
+FIP Editors - Filecoin Improvement Proposal Governance,10,True,7383.189778272276
+filecoin-checker,9,True,7225.3384927041
+Asia-SPWG,11,True,7191.604145385095
+Filecoin Beam,9,True,7176.787906887544
+Boost,14,True,7157.445466653271
+Drips,16,True,6871.198567756678
+Old Faithful,8,True,6788.277137501891
+chainfee,7,True,6451.782327137471
+OrbitChina,8,True,6242.763745373696
+FIP 100 Research & Development,11,True,6061.114539736661
+Fil Implementers WG - Cross-Client Coordination and Governance,10,True,5902.626757049257
+Filecoin Ledger App & Installation Hub,10,True,5715.178355437048
+Boxo and Kubo,12,True,5697.710045609387
+Open Source Observer (OSO),8,True,5431.406723115225
+Storacha-Solana-SDK,8,True,5340.882688380787
+Lynx - Storage Provider Retrieval Analytics Platform,11,True,5333.280083901136
+Safe on Filecoin,13,True,5330.203681158208
+Helia,13,True,5307.92628198528
+Curio Dashboard,10,True,5256.228571523659
+MechaFIL-JAX,6,True,4941.233219408669
+Axelar Network,10,True,4926.134093302574
+CIDgravity Filecoin Gateway,12,True,4878.1139217520395
+Filecoin Client Implementation - Venus,10,True,4815.73720406784
+IPFS Public Utilities,10,True,4793.070834433162
+Ancients Research,7,True,4345.684081519057
+IPFS Desktop and Companion,9,True,4304.9129049374915
+Filosign,6,True,4299.502679424066
+Curio Snark Market,10,True,4272.628356612279
+Filecoin BigQuery Data Repository,10,True,4007.5980283565705
+Metrics for the Filecoin P2P network health,10,True,3986.7704281774368
+filsnap,11,True,3742.178729639112
+Forest Archive,11,True,3714.066773539941
+py-libp2p: The Python libp2p Stack for Filecoin & IPFS,11,True,3412.01352951589
+MetaEra,7,True,3216.7503577176212
+OneForm - SocialCap,7,True,3032.8026902611573
+Filecoin Slack Community Admin,11,True,3022.618736353533
+Filecoin Community Service -VenusHub,8,True,3017.9864517636065
+FilPunks,7,True,2900.62345516845
+Filecoin Deal Tool - Droplet,8,True,2858.190313886682
+Filecoin FIPs Tracker,9,True,2817.3484154029807
+FIL RetroPGF Data Analysis & Round Modeling,10,True,2624.914119690163
+Spacescope: API service for the Filecoin ecosystem,7,True,2547.615080655209
+Filecoin Spark,6,True,2544.4679560101445
+CalibrationNet Stability Project,9,True,2333.716687644031
+GainForest: The world’s first community-owned data commons for nature impact,7,True,2242.9097653010476
+Keypo,9,True,2180.7805742743258
+fil-miner-info.safematrix,6,True,1980.213259815836
+libp2p Community Architecting and Infra Management,9,True,1959.6331862941786
+Filet Finance,6,True,1648.3507340413428
+iso-filecoin,7,True,1580.8113175011954
+Meet with Huddle01,5,True,1579.8565718223558
+Filecoin Nigeria,4,True,1577.7349147582675
+SealGuard,5,True,1568.3996236762782
+Forest Explorer,9,True,1480.6691040762232
+Cuview,4,True,1443.46938355254
+Curio Smart Cordon & Restart System,7,True,1426.1071565780833
+FIL LAGOS,4,True,1330.2082572812878
+CIDgravity Nextcloud App,6,True,1240.1792758618037
+万佳社区,5,True,1218.856622367715
+Multichain Storage,7,True,1207.5057570748424
+DevTTY Filecoin Mainnet Bootstrap Nodes,5,True,1112.8798520164999
+PLDG Dashboard: Developer Analytics for the Protocol Labs Dev Guild,7,True,1049.3008619959842
+witnesschain,4,True,946.9309086537191
+Web3 Billing & Invoicing System - Building Verifiable Workflows on Filecoin for Digital Public Goods,5,True,904.4977673719513
+MUSE,4,True,900.6080627544558
+Filecoin Orbit Bootcamp Africa,4,True,867.8991830164264
+Filecoin Community Services,6,True,824.7588227132957
+Filecoin Orbit Uganda,4,True,622.9892359184893
+The Epoch Clock,3,False,0.0
+ETHAccra,1,False,0.0
+Eth Transport - Decentralized Civic Infrastructure on Filecoin,2,False,0.0
+ETHNigeria  (BuiDL Africa - Empowering Web3 Adoption),2,False,0.0
+B<>rder/ess Developers Program,3,False,0.0
+Guide To Filecoin - Easing the Transition to Filecoin.,2,False,0.0
+Curio APT Repository (Filecoin APT),3,False,0.0
+Filmint,3,False,0.0
+JZFS - Building Data Hub-and-Spoke Model with Filecoin,2,False,0.0
+FilDOS,3,False,0.0
+OP Medicine - Filecoin-Powered Healthcare Infrastructure,3,False,0.0
+BlockseBlock,2,False,0.0
+FILCAPETOWN,1,False,0.0
+NanoDC Project,3,False,0.0
+boxo-starter-kit,4,True,0.0
+"Oku.trade - Filecoin’s premier DeFi aggregator for deep liquidity, LP management and cross-chain interoperability - 0% fee swaps & bridges.",3,False,0.0
+FileScope AI: Blockchain-Powered Dataset Analysis Platform,2,False,0.0
+Cyberport Data Integration,2,False,0.0
+Silvi: IPFS-Powered Biodiversity Infrastructure,3,False,0.0
+4EVERLAND,2,False,0.0
+Filecoin Address Drainer,3,False,0.0
+WarmWeb,3,False,0.0
+ETH-FIL swap,2,False,0.0
+Filecoin Kenya Community,3,False,0.0
+MYRAD,3,False,0.0
+OpenEdStore Decentralized Educational Storage Platform,1,False,0.0
+Root Key Holder management portal,2,False,0.0
+Retrieval Tester,4,True,0.0
+IPFS及Filecoin价值资讯传递（南山居士Hill）,2,False,0.0
