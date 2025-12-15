@@ -96,7 +96,7 @@ def get_allocations(df, quorum_cutoff=5, min_funding=250, total_funding=270000, 
             
         total_score = scores.sum()
 
-        print(f'Round {round_number} total score: {total_score}')
+        # print(f'Round {round_number} total score: {total_score}')
         
         # Calculate normalized allocations
         allocations = {}
@@ -445,18 +445,27 @@ def badgeholder_patterns2(df, figsize=(12, 8), save_fp=None):
     num_voters = len(gb)
     filled_array = np.zeros((num_voters, max_len))
     # now create a non-ragged array
-    voter_list = []
+    original_voter_ids = []
     for i, (k, v) in enumerate(voter2votes.items()):
         filled_array[i, :len(v)] = v
         filled_array[i, len(v):] = np.nan
+        original_voter_ids.append(k)
 
     # sort by # of nans
     nan_counts = np.sum(np.isnan(filled_array), axis=1)
     sorted_indices = np.argsort(nan_counts)
     filled_array = filled_array[sorted_indices]
     
-    # Create sequential voter IDs after sorting
-    voter_list = [f"{i+1}" for i in range(num_voters)]
+    # Create voter labels after sorting - label AI Badgeholder explicitly
+    sorted_voter_ids = [original_voter_ids[i] for i in sorted_indices]
+    voter_list = []
+    counter = 1
+    for voter_id in sorted_voter_ids:
+        if voter_id == 'AI Badgeholder':
+            voter_list.append('AI')
+        else:
+            voter_list.append(f"{counter}")
+            counter += 1
 
     # order the array more nicely
     filled_array1 = np.where(np.isnan(filled_array), -100, filled_array)
@@ -499,6 +508,14 @@ def badgeholder_patterns2(df, figsize=(12, 8), save_fp=None):
                      cbar_kws=cbar_kws,
                      yticklabels=voter_list,
                      xticklabels=range(1, max_len+1))
+
+    # Make the AI Badgeholder label bold and colored
+    yticklabels = ax.get_yticklabels()
+    for i, label in enumerate(yticklabels):
+        if label.get_text() == 'AI':
+            label.set_fontweight('bold')
+            label.set_color('#2d5016')  # Dark green color to make it stand out
+            label.set_fontsize(label.get_fontsize() * 1.3)  # Larger font size
 
     # Add statistics text in the middle of the graph
     mid_x = max_len / 2
@@ -914,9 +931,9 @@ def plot_category_metrics(df, figsize=(15, 5), style='bar', save_fp=None):
         axes[0].set_xlabel('Number of Votes')
         axes[0].set_ylabel('')
         # Plot 2: Total Funding
-        category_metrics['Total Funding'].plot(kind='barh', ax=axes[1], color=plot_colors[1])
+        (category_metrics['Total Funding']/1e3).plot(kind='barh', ax=axes[1], color=plot_colors[1])
         axes[1].set_title('Total Funding by Category')
-        axes[1].set_xlabel('FIL')
+        axes[1].set_xlabel('FIL (thousands)')
         axes[1].set_ylabel('')
         
         # Plot 3: Average Funding with reference line
